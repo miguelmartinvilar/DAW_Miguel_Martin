@@ -1,0 +1,6 @@
+He creado un proyecto (DAW_Miguel_Martin) con cuatro carpetas correspondientes a un modulo cada una 
+(Sistemas, Marcas, Entornos y Programación) con un archivo dentro de cada una.
+En Sistemas he elegido un archivo .odt que contiene un presupuessto del montaje de un ordenador.
+En Marcas he elegido un archivo .html que contiene un ejericio realizado en clase.
+En Entornos he elegido un archivo .png el cual contiene un ejemplo de un diagrama de flujo.
+En Programación he elegido archivo .java que es un ejericio realizado en clase.
