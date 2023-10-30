@@ -6,6 +6,10 @@
 </head>
 <body>
     <ol>
+<<<<<<< HEAD
+=======
+        <li></li>
+>>>>>>> usuario2
         <li>Verde</li>
         <li></li>
     </ol>
