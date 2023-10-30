@@ -7,7 +7,7 @@
 <body>
     <ol>
         <li>Azul</li>
-        <li>Verde</li>
+        <li></li>
     </ol>
 </body>
 </html>
