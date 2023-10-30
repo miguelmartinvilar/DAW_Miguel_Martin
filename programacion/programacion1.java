@@ -1,4 +1,4 @@
-/*
+﻿/*
 Generar enteros de 3 en 3 comenzando por 2 hasta el valor máximo menor que 30 y calcular
 la suma de los números generados que sean divisibles por 5.
  */
@@ -12,6 +12,6 @@ public class Ejercicio23 {
             if(i%5==0)
                 suma=suma+i;
         }
-        System.out.println("La suma de los números generados que sean divisibles por 5 es "+suma);
+        
     }
 }
