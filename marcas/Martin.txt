@@ -6,7 +6,7 @@
 </head>
 <body>
     <ol>
-        <li>Azul</li>
+        <li></li>
         <li>Verde</li>
     </ol>
 </body>
